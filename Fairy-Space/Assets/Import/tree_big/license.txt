@@ -1,0 +1,11 @@
+Model Information:
+* title:	tree big
+* source:	https://sketchfab.com/3d-models/tree-big-3e93f0a03c534dc1b4fd5a00b993967a
+* author:	gohean33 (https://sketchfab.com/gohean33)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "tree big" (https://sketchfab.com/3d-models/tree-big-3e93f0a03c534dc1b4fd5a00b993967a) by gohean33 (https://sketchfab.com/gohean33) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
